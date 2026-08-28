@@ -9,7 +9,7 @@ An interactive visualizer for classic pathfinding algorithms, built to explore h
 - 🔍 **Algorithms:** Dijkstra's, BFS, and DFS
 - 🌀 **Maze generation** for randomized obstacle courses
 - 🎚️ **Adjustable animation speed** and **draggable start/end nodes**
-- 
+  
 ## Tech Stack
 HTML | CSS | JavaScript
 
